@@ -8,7 +8,7 @@ function forLoop(array)
   }
   else
   {
-    console.log
+    console.log("I am ${i} strange loops.")
   }
    }
 }
