@@ -3,7 +3,7 @@ function forLoop(array)
   
 }
 
-function whileLoop(array)
+function whileLoop(n)
 {
   
 }
